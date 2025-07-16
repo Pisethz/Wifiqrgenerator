@@ -71,12 +71,12 @@ pip install -r requirements.txt
 
 ## 🖼️ Screenshot
 
-![Screenshot](https://user-images.githubusercontent.com/placeholder/your-screenshot.png)
+![Screenshot](https://github.com/Pisethz/Wifiqrgenerator/issues/1#issue-3237151318)
 
 ---
 
 ## ⚡ Credits
-- UI/UX: [Pisethz](https://github.com/yourprofile) x [JackyJackyHunt](https://github.com/yourprofile)
+- UI/UX: [Pisethz](https://github.com/Pisethz) x [JackyJackyHunt](https://github.com/Pisethz)
 - QR Code: [qrcode](https://pypi.org/project/qrcode/)
 - Excel: [openpyxl](https://pypi.org/project/openpyxl/)
 - Word: [python-docx](https://pypi.org/project/python-docx/)
