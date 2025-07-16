@@ -71,7 +71,7 @@ pip install -r requirements.txt
 
 ## 🖼️ Screenshot
 
-![Screenshot](https://github.com/Pisethz/Wifiqrgenerator/issues/1#issue-3237151318)
+![Screenshot](https://ibb.co/35N0wrFD)
 
 ---
 
