@@ -1,0 +1,4 @@
+qrcode>=7.4.2
+pillow>=9.0.0
+openpyxl>=3.0.10
+python-docx>=0.8.11 
